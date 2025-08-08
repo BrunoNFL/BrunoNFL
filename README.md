@@ -2,10 +2,10 @@
 <h3 align="center">An iOS Developer with a passion for understanding how things work from the inside out.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-cesar-andrade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:bruno.cesar.andrade.95@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -27,27 +27,27 @@ Here are some of the technologies I work with:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-256x256_2x.png" alt="icon" width="65" height="65" />
       <br>Swift
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/objc-icon.svg" alt="icon" width="65" height="65" />
-      <br>Objective-C
+      <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/86/0d/a6/860da68d-b35f-c3d9-30df-865ddff6a1f0/source/512x512bb.jpg" alt="icon" width="65" height="65" />
+      <br>Obj-C
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/uikit-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://developer.apple.com/assets/elements/icons/widgetkit/widgetkit-256x256_2x.png" alt="icon" width="65" height="65" />
       <br>UIKit
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/swiftui-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-256x256_2x.png" alt="icon" width="65" height="65" />
       <br>SwiftUI
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/xcode-icon.svg" alt="icon" width="65" height="65" />
+	  <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="icon" width="65" height="65" />
       <br>Xcode
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+	    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="icon" width="65" height="65" />
       <br>Git
     </td>
   </tr>
