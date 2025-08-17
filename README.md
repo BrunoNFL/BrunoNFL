@@ -71,7 +71,7 @@ Here are a few projects that tell my story.
     * An intelligent utility to manage Wi-Fi and Cellular radios, born from reverse-engineering `CoreTelephony` and `SpringBoard`.
     * *Skills: Objective-C, Reverse Engineering, Event-Driven Architecture.*
 
-* **[WiJoin](link-to-repo)**
+* **[WiJoin]([link-to-repo](https://github.com/BrunoNFL/WiJoin))**
     * A custom UI tweak providing clean, non-intrusive notifications for Wi-Fi network changes.
     * *Skills: UIKit, Custom UI/UX, Window Management, User Preferences.*
 
