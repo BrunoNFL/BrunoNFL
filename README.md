@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-  🔭 I’m currently looking for my next role as an iOS Developer where I can help build amazing, user-centric applications. <br>
+  🔭 I’m currently working for TELUS Digital as an iOS Engineer. <br>
   🌱 I’m deepening my knowledge in modern Swift architectures, Combine, and SwiftUI. <br>
   💬 Ask me about anything related to iOS internals or building efficient mobile solutions!
 </p>
